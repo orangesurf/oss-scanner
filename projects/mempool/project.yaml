@@ -1,0 +1,4 @@
+repo: https://github.com/mempool/mempool#master
+primary_contact: security@mempool.space
+homepage: https://mempool.space
+dockerfile: .oss-scanner/Dockerfile
